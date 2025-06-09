@@ -44,7 +44,6 @@ public class TelaLogin extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Login");
-        setPreferredSize(new java.awt.Dimension(800, 600));
         setSize(new java.awt.Dimension(800, 600));
 
         jPanelTelaInicial.setPreferredSize(new java.awt.Dimension(1440, 1024));
@@ -52,7 +51,7 @@ public class TelaLogin extends javax.swing.JFrame {
         jLabelTitulo.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
         jLabelTitulo.setText("FERRAMENTOTECA");
 
-        jPanelLogin.setBackground(new java.awt.Color(153, 153, 153));
+        jPanelLogin.setBackground(new java.awt.Color(51, 51, 255));
         jPanelLogin.setForeground(new java.awt.Color(204, 204, 204));
 
         jLabelUsuario.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
