@@ -1,4 +1,6 @@
 🆕 Novas Funcionalidades
+
+
 ✅ Cadastro de Usuários com Permissões
 Tela funcional para o cadastro de usuários com os seguintes campos:
 
